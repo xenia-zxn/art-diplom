@@ -1,0 +1,4 @@
+art-diplom
+==========
+
+my diplom
